@@ -4,7 +4,7 @@
 
 📖 About This Journey
 
-Last year, I joined an institute called Mustakbil with the goal of specializing in Web Development.
+Last year, I joined an institute Mera Mustakbil, Okara with the goal of specializing in Web Development.
 
 What started as a learning experience turned into almost four months of regular classes, continuous practice, hands-on projects, and exploration of different areas of the web. 💻
 
